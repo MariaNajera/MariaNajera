@@ -57,7 +57,7 @@ I don't just build websites; I design **business solutions**. With a background 
 ---
 
 ### 📜 Certifications & Achievements
-* ** Business Informatics** – University of Costa Rica (UCR).
+* **Business Informatics** – University of Costa Rica (UCR).
 * **SCRUM Fundamentals Certified (SFC™)** – SCRUM Study.
 * **Accounting Assistant Certification** – National Institute of Learning (INA).
 * **CCNA ITN** – Cisco Networking Academy.
