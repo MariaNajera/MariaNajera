@@ -29,7 +29,7 @@ I don't just build websites; I design **business solutions**. With a background 
 **Backend & Data Management**
 * **Technologies:** .NET Core, Node.js, MVC Architecture.
 * **Languages:** C#, Java, SQL.
-* **Databases:** SQL Server, PostgreSQL, MongoDB.
+* **Databases:** SQL Server, MongoDB.
 
 **Workflow & Systems**
 * **Tools:** GitHub, Postman, Trello.
