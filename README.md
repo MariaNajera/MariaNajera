@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Maria Fernanda Najera
 ### Software Developer | Business Informatics Professional 
 
-I am a **Business Informatics Graduate** from the University of Costa Rica. I specialize in building high-performance web applications, combining advanced **Frontend development** with a deep expertise in **Business Logic and Accounting Systems**. My goal is to transform complex administrative processes into seamless digital experiences.
+I am a **Business Informatics Graduate** from the University of Costa Rica. I specialize in building web applications, combining advanced **Frontend development** with a deep expertise in **Business Logic and Accounting Systems**. My goal is to transform complex administrative processes into seamless digital experiences.
 
 * 📍 **Based in:** Costa Rica
 * 🎓 **Education:**  Business Informatics (UCR Graduate)
